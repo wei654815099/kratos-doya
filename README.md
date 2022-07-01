@@ -1,8 +1,4 @@
-English | [简体中文](README.zh-CN.md)
-
-<p align="center">
-    <img src="assets/img/options/about.png">
-</p>
+# Kratos-doya
 
 <p align="center">
     <img src="https://img.shields.io/badge/PHP-%3E7.4-777BB4?style=flat-square&logo=php&logoColor=#777BB4">
@@ -18,30 +14,27 @@ English | [简体中文](README.zh-CN.md)
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/seatonjiang/kratos/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/seatonjiang/kratos/issues">Request Feature</a>
-</p>
+tips:
 
-<p align="center">WordPress theme that focus on reading experience</p>
+> 基于 [Kartos](https://github.com/seatonjiang/kratos) (4.1.4版本) 二次开发的个人主题
 
-## 🚀 Quick start
 
-1. First download the theme's .zip file from the source file to your local computer.
+## 🚀 使用说明
 
-2. From your WordPress Administration area, head to Appearance > Themes and click `Add New`.
+1. 下载最新发行版本的 .zip 格式安装包；
 
-3. The Add New theme screen has a new option, `Upload Theme`.
+2. 登录 WordPress 管理员后台，进入 `外观` > `主题` 页面，然后点击 `添加` 按钮；
 
-4. The theme upload form is now open, click `Choose File`, select the theme zip file on your computer and click `Install Now`.
+3. 进入添加主题页面之后，再点击 `上传主题` 按钮；
 
-5. The theme can now be activated from the administrator. Select the `Appearance` tab, then open the theme catalog, find the theme, and click the `Activate link`.
+4. 点击 `选择文件`, 找到下载的 .zip 格式安装包，然后点击 `现在安装` 按钮；
 
-## 🤝 Contributing
+5. 进入 `外观` > `主题` 页面，找到 Kratos 主题，然后点击 `启用` 即可。
 
-We welcome all contributions. You can submit any ideas as pull requests or as issues, have a good time! :)
+## 🤝 参与共建
 
-## 📃 License
+我们欢迎所有的贡献，你可以将任何想法作为 pull requests 或 issues 提交，顺颂商祺 :)
 
-The project is released under the GNU General Public License v3.0, see the [LICENCE](https://github.com/seatonjiang/kratos/blob/main/LICENSE) file for details.
+## 📃 开源许可
+
+项目基于 GNU 通用公共许可证 v3.0 发布，详细说明请参阅 [LICENCE](https://github.com/seatonjiang/kratos/blob/main/LICENSE) 文件。
