@@ -45,7 +45,15 @@
                 </p>
                 <?php
                 echo '<p>' . kratos_option('s_copyright', 'COPYRIGHT © ' . wp_date('Y') . ' ' . get_bloginfo('name') . '. ALL RIGHTS RESERVED.') . '</p>';
-                echo '<p>Theme <a href="https://github.com/seatonjiang/kratos" target="_blank" rel="nofollow">Kratos</a> Made By <a href="https://seatonjiang.com" target="_blank" rel="nofollow">Seaton Jiang</a></p>';
+                ?>
+                <p>
+                    Theme
+                    <a href="https://github.com/wei654815099/kratos-doya" target="_blank" rel="nofollow">kratos-doya</a>
+                    Made By
+                    <a href="https://blog.doya.fun/" target="_blank" rel="nofollow">lindl</a>
+                    (based on <a href="https://github.com/seatonjiang/kratos" target="_blank" rel="nofollow">kratos</a>)
+                </p>
+                <?php
                 if (kratos_option('s_icp')) {
                     echo '<p><a href="https://beian.miit.gov.cn/" target="_blank" rel="nofollow">' . kratos_option('s_icp') . '</a></p>';
                 }
