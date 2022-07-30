@@ -38,7 +38,7 @@
     <div class="k-header">
         <nav class="k-nav navbar navbar-expand-lg navbar-light fixed-top" <?php echo kratos_option('top_img_switch', true) ? '' : 'style="background:' . kratos_option('top_color', '#24292e') . '"'; ?>>
             <div class="container">
-                <a class="navbar-brand" href="<?php echo get_option('home'); ?>">
+                <!--<a class="navbar-brand" href="<?php echo get_option('home'); ?>">
                     <?php
                     if (kratos_option('g_logo')) {
                         echo '<img src="' . kratos_option('g_logo') . '"><h1 style="display:none">' . get_bloginfo('name') . '</h1>';
@@ -46,7 +46,7 @@
                         echo '<h1>' . get_bloginfo('name') . '</h1>';
                     }
                     ?>
-                </a>
+                </a>-->
                 <?php if (has_nav_menu('header_menu')) { ?>
                     <button class="navbar-toggler navbar-toggler-right" id="navbutton" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="line first-line"></span>
